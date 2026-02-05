@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report17_Tecnologias marginales de casacion"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "679774ba-fba5-924e-442b-2cfcf9912725"
+  }
+}

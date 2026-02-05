@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report15_MIX Potencia instalada"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1fb22708-a263-bdb7-4bc7-a90471adc265"
+  }
+}

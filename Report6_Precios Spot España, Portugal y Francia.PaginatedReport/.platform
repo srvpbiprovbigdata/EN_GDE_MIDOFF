@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report6_Precios Spot España, Portugal y Francia"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1b547208-24b5-8723-4dc4-af27918de071"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report3_Commodities, tipo de cambio y CO2"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "aae683b4-aad6-8373-458f-79910e91c6f2"
+  }
+}

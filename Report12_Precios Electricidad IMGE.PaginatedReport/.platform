@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report12_Precios Electricidad IMGE"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "085a4b6b-e924-ab88-4b11-aae8d5dca85b"
+  }
+}
