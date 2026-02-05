@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report9_Generacion cartera Acciona"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e3092f0c-1fc6-8893-4082-1c0aeb273276"
+  }
+}

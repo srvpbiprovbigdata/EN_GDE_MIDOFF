@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report4_Precios POOL Europa"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ef94b004-b56f-b56d-4dbb-aa6320f92abf"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report14_Saldos interconexion España HORARIO"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d6da6027-9925-9fe4-47f3-78fce2952397"
+  }
+}

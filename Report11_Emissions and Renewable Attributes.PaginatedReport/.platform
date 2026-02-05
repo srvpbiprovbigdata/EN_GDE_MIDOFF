@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report11_Emissions and Renewable Attributes"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1c04d17c-91f5-95d0-4630-a1a44255dc6b"
+  }
+}

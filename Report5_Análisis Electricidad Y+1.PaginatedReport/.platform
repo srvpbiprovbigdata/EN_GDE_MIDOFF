@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report5_Análisis Electricidad Y+1"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "92c7688c-bcb5-89d2-4ae3-99ff7565a45c"
+  }
+}
