@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report1_Evolucion Pools y Drivers"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "8269d05b-a34c-9423-4b8a-916642bc5551"
+  }
+}

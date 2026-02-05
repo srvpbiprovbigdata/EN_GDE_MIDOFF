@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report16_Enegia diaria por tecnología"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "8445cc02-c3c8-8246-48e3-2b88b17a4071"
+  }
+}

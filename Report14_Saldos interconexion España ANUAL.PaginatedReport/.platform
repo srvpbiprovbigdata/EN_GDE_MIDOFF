@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report14_Saldos interconexion España ANUAL"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d7a6043b-bd15-a137-4c29-e12e423472b7"
+  }
+}

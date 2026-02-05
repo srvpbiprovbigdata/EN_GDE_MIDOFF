@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report8_Balance REE"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5df7250a-0096-a0d3-49f1-b8fc0080e33e"
+  }
+}

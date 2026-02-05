@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report2_Interconexión Francia-España"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0f06b5e7-462a-9f3a-4ebd-af2bf825a638"
+  }
+}

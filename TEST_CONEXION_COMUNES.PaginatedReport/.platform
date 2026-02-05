@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "TEST_CONEXION_COMUNES"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c2363e9d-be98-8e08-4c6a-d87585b7f82b"
+  }
+}

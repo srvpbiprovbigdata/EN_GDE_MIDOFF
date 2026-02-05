@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Report7_Precios OMIP"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "43fc4d32-ea63-9a2b-4e81-b2c366d28e19"
+  }
+}
